@@ -7,6 +7,8 @@
 <h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG - NT118.O21</b></h1>
 <!--  -->
 
+- **Video demo sản phẩm:** [Demo](https://www.youtube.com/watch?v=FopqH-NjLrE)
+
 ## GIỚI THIỆU MÔN HỌC
 
 -   **Tên môn học:** Phát triển ứng dụng trên thiết bị di động 
