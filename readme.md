@@ -31,6 +31,37 @@
 -   **Caching:** [Redis](https://app.redislabs.com/)
 -   **Payment:** [MOMO](https://github.com/momo-wallet/payment/blob/master/nodejs/CollectionLink.js)
 
+## Screenshots
+![main](https://github.com/user-attachments/assets/66bcbb2c-e93b-4c42-a12f-8bb962c33e72)
+
+![category](https://github.com/user-attachments/assets/c1ecbaec-6e21-4acd-9d38-ff19113c79fc)
+
+![list](https://github.com/user-attachments/assets/511d522d-9863-4b3a-823a-0b8190dadae2)
+
+![search](https://github.com/user-attachments/assets/4cd094c3-9584-42c5-b29a-8beaf169ef70)
+
+![signin](https://github.com/user-attachments/assets/ff9cfd9a-c4ed-441f-bbcc-ee49679e4f1e)
+
+![signin-google](https://github.com/user-attachments/assets/667c054a-4ec4-4f7c-9b25-36f22d4f7ef4)
+
+![signup-otp](https://github.com/user-attachments/assets/90cb1bce-a365-46eb-8acc-654a37c4388d)
+
+![info](https://github.com/user-attachments/assets/63f26ef8-4c10-490e-bd5f-a960d18752b4)
+
+![order](https://github.com/user-attachments/assets/825ffd27-e0fe-44ed-8799-e0e24e7bbef7)
+
+![review](https://github.com/user-attachments/assets/f5f5547d-458b-4d24-9198-6a3d5aba7bfb)
+
+![detail](https://github.com/user-attachments/assets/54122e74-b62f-46fb-9ca7-05f386aaf0fc)
+
+![cart](https://github.com/user-attachments/assets/a6904b8d-c046-4512-8595-6b45ccf624c6)
+
+![payment-momo](https://github.com/user-attachments/assets/3ae1cc89-8585-405d-8e4d-4696a9bef84d)
+
+![payment](https://github.com/user-attachments/assets/a990e4c4-07ce-44f9-b1b7-4ebcc6e860d4)
+
+![payment-res](https://github.com/user-attachments/assets/f244047e-0129-466f-9b9e-175c5f19dfac)
+
 ## Repo
 -   **Repo ứng dụng**: https://github.com/NT118-MiniMarketProject
 
@@ -57,11 +88,6 @@ yarn run dev
 ```
 
 ## THÀNH VIÊN NHÓM
-
-- Nhóm có thành viên sử dụng 2 tài khoản github:
-  - [KietGia22](https://github.com/KietGia22): dùng để phục vụ cho việc merge code và deploy server, do file .env của tài khoản này có các thông tin của cloud, các tài khoản cloud nhóm dùng là miễn phí nên bị giới hạn về dung lượng và tài nguyên, nên khi sử dụng để làm sẽ bị có thể bị hết dung lượng và tài nguyên nên thành viên này đã sử dụng tài khoản github thứ 2 để code các chức năng sau đó mới merge code vào nhánh master và sau đó nhánh master sẽ được đem đi deploy.
-  - [NgTrGKiet](https://github.com/NgTrGKiet): dùng để code các chức năng của đồ án, file .env của tài khoản này có các thông tin host, port của cơ sở dữ liệu, redis sử dụng làm việc và test dưới local.
-
 | STT | MSSV     | Họ và Tên              | Tài khoản GitHub thứ nhất            | Tài khoản Github thứ hai     |Email                   |
 | :-- | :------- | :----------------------| :------------------------------------| :----------------------------| :--------------------- |
 | 1   | 21522258 | Nguyễn Trần Gia Kiệt   | https://github.com/KietGia22         | https://github.com/NgTrGKiet | 21522258@gm.uit.edu.vn |
