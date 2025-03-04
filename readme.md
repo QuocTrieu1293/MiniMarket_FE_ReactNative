@@ -102,3 +102,8 @@ yarn run dev
 | 4   | 21521082 | Vương Thanh Linh       | https://github.com/ThanhLinh023      |                              | 21521082@gm.uit.edu.vn |
 
 ## NẾU BẠN THẤY REPO NÀY HAY HÃY CHO NHÓM CHÚNG MÌNH 1 SAO NHÉ ⭐
+
+## Contact
+- 📩 **Email:** tcqtrieu@gmail.com
+- 🔗 **LinkedIn:** [in/quoc-trieu-129t2003](https://www.linkedin.com/in/quoc-trieu-129t2003/)
+- 💻 **GitHub:** [QuocTrieu1293](https://github.com/QuocTrieu1293)
