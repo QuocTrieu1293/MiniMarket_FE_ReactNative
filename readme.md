@@ -48,7 +48,13 @@
 
 ![info](https://github.com/user-attachments/assets/63f26ef8-4c10-490e-bd5f-a960d18752b4)
 
+![contact & feedback](https://github.com/QuocTrieu1293/host-image/blob/cb4e6b519cd6a717269130d195f7b5669068d976/MiniMarket_FE_ReactNative/9b29cca3-73ca-481c-9d45-ca74e3b556b2.jpg)
+
+![order-list](https://github.com/QuocTrieu1293/host-image/blob/cb4e6b519cd6a717269130d195f7b5669068d976/MiniMarket_FE_ReactNative/6551005c-caab-4b7a-a11d-3040a92dbfa1.jpg)
+
 ![order](https://github.com/user-attachments/assets/825ffd27-e0fe-44ed-8799-e0e24e7bbef7)
+
+![order-review](https://github.com/QuocTrieu1293/host-image/blob/cb4e6b519cd6a717269130d195f7b5669068d976/MiniMarket_FE_ReactNative/4ca72f2b-b68d-431b-ae4a-8c6e88d6335f.jpg)
 
 ![review](https://github.com/user-attachments/assets/f5f5547d-458b-4d24-9198-6a3d5aba7bfb)
 
